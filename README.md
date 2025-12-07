@@ -20,7 +20,6 @@ A full-stack web application for submitting and managing store ratings. The plat
 
 ## Installation
 ### 1. Clone the repository
-git clone https://github.com/yourusername/store-rating-platform.git
 cd store-rating-platform
 
 
