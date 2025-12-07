@@ -53,6 +53,3 @@ REACT_APP_API_URL=http://yourlocalhost/api
 npm run dev
 ```
 
-
-Create a .env file in the backend folder with the following:
-
