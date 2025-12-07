@@ -77,7 +77,6 @@ button {
   box-shadow: 0 5px 15px rgba(0,0,0,0.2);
 }
 
-/* Button hover effect */
 button:hover {
   background: linear-gradient(135deg, #FF5722, #FF7E5F);
   transform: scale(1.08) rotate(-1deg);
